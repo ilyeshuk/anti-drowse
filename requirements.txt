@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pynput
+simpleaudio
+numpy
+PySide6
